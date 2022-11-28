@@ -1,0 +1,11 @@
+name: LobbyJE
+version: '${project.version}'
+main: net.minecraft5333.je.plugins.main
+description: Lobby System
+commands:
+  start:
+  warp:
+  settings:
+  hub:
+  lobby:
+  home:
